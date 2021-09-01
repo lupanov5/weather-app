@@ -1,0 +1,13 @@
+.day {
+    min-height: 100px;
+    background-color: #fff;
+    padding: 5px 5px 5px 5px;
+}
+
+h2 {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    color: #1565c0;
+    text-align: center;
+}
