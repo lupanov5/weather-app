@@ -5,7 +5,7 @@ const TodayWeather = () => {
     return (
         <div className="todayWeather">
             <div className="temp">
-                <h2>34</h2>
+                <h2>0</h2>
             </div>
             <h3>Псков, Россия</h3>
             <div className="cloudness">
